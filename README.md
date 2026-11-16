@@ -3,7 +3,7 @@
 **Aluna:** Anna Jullya Nascimento dos Santos  
 
 ## Descrição do Portfólio
-Este projeto é um portfólio pessoal e acadêmico desenvolvido como evolução da atividade proposta no curso de Desenvolvimento de Sistemas da EADTEC. O site apresenta meu perfil profissional, minhas principais habilidades técnicas, projetos desenvolvidos em sala de aula e canais diretos para contato profissional.
+Este projeto é um portfólio pessoal e acadêmico desenvolvido como evolução da atividade proposta no curso de Desenvolvimento de Sistemas da EADTEC. O site apresenta meu perfil profissional, minhas principais habilidades técnicas e projetos desenvolvidos em curso.
 
 ## Tecnologias Utilizadas
 * **HTML5:** Estruturação semântica das seções da página.
@@ -14,7 +14,7 @@ Este projeto é um portfólio pessoal e acadêmico desenvolvido como evolução 
 
 
 ## Funcionamento do Projeto
-O site é estruturado em uma página única (*Single Page*) com navegação fluida por âncoras através do menu superior fixo (`#perfil`, `#projetos` e `#contato`). 
+O site é estruturado em uma página única com navegação fluida por âncoras através do menu superior fixo (`#perfil`, `#projetos` e `#contato`). 
 * **Início:** Exibe um carrossel interativo com imagens de projetos e códigos desenvolvidos.
 * **Perfil:** Apresenta minhas informações acadêmicas, objetivo profissional e as ferramentas que domino.
 * **Projetos:** Exibe cartões organizados com descrição e acesso aos meus trabalhos práticos em HTML e Python.
